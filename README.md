@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ryan 👋
 
-<!--
-**ryanpatrickv/ryanpatrickv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Backend Engineer | Python & Node.js | Building APIs & Exploring Cloud Architecture
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+**Backend & Languages:** Python, Node.js, REST APIs  
+**Databases:** Rethink DB, MySQL  
+**DevOps & Tools:** Docker, Git, GitHub, CI/CD basics  
+**Cloud & Infrastructure:** AWS basics, Cloud Architecture concepts  
+
+---
+
+## 💻 Projects
