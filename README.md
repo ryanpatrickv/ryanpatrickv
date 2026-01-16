@@ -1,10 +1,10 @@
-# Hi, I'm Ryan 👋
+# Hi, I'm Ryan
 
 Aspiring Backend Engineer | Python & Node.js | Building APIs & Exploring Cloud Architecture
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Backend & Languages:** Python, Node.js, REST APIs  
 **Databases:** Rethink DB, MySQL  
@@ -13,4 +13,4 @@ Aspiring Backend Engineer | Python & Node.js | Building APIs & Exploring Cloud A
 
 ---
 
-## 💻 Projects
+## Projects
